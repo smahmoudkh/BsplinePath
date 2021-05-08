@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="howto_net_image_pixelator">
+</Property><Property Name="Solution File" Value="C:\Users\M\Downloads\Compressed\howto_net_image_pixelator\howto_net_image_pixelator.sln">
+</Property><Property Name="Date" Value="Sunday, December 18, 2016">
+</Property><Property Name="Time" Value="20:40 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="howto_net_image_pixelator.sln" Description="File successfully backed up as C:\Users\M\Downloads\Compressed\howto_net_image_pixelator\Backup\howto_net_image_pixelator.sln">
+</Event><Event ErrorLevel="0" Project="howto_net_image_pixelator" Source="howto_net_image_pixelator.vbproj" Description="Project file successfully backed up as C:\Users\M\Downloads\Compressed\howto_net_image_pixelator\Backup\howto_net_image_pixelator.vbproj">
+</Event><Event ErrorLevel="0" Project="howto_net_image_pixelator" Source="howto_net_image_pixelator.vbproj.user" Description="Project user file successfully backed up as C:\Users\M\Downloads\Compressed\howto_net_image_pixelator\Backup\howto_net_image_pixelator.vbproj.user">
+</Event><Event ErrorLevel="0" Project="howto_net_image_pixelator" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Users\M\Downloads\Compressed\howto_net_image_pixelator\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="howto_net_image_pixelator" Source="Form1.vb" Description="File successfully backed up as C:\Users\M\Downloads\Compressed\howto_net_image_pixelator\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="howto_net_image_pixelator" Source="Form1.resx" Description="File successfully backed up as C:\Users\M\Downloads\Compressed\howto_net_image_pixelator\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="howto_net_image_pixelator" Source="howto_net_image_pixelator.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="howto_net_image_pixelator" Source="howto_net_image_pixelator.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="howto_net_image_pixelator" Source="howto_net_image_pixelator.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="howto_net_image_pixelator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="howto_net_image_pixelator.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="howto_net_image_pixelator" Source="howto_net_image_pixelator.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
