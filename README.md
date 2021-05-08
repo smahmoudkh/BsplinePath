@@ -4,6 +4,7 @@ This project finds the shortest path among the obstacles for an autonomous movem
 
 Seyed Mahmoud Khademiyan
 
-[Watch the video on how it works! ](https://github.com/smahmoudkh/BsplinePath/blob/main/BsplinePath.mp4)
+[Watch the video on how it works!](https://github.com/smahmoudkh/BsplinePath/blob/main/BsplinePath.mp4)
+
 
 
