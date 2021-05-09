@@ -8,5 +8,6 @@ This project finds the shortest path among the obstacles for an autonomous movem
 
 [Watch the video on how it works!](https://github.com/smahmoudkh/BsplinePath/blob/main/BsplinePath.mp4)
 
-![BsplinePath](https://github.com/smahmoudkh/BsplinePath/blob/main/BsplinePath.png)
+<!-- ![BsplinePath](https://github.com/smahmoudkh/BsplinePath/blob/main/BsplinePath.png)  -->
+![BsplinePath](https://github.com/smahmoudkh/BsplinePath/blob/main/BsplinePath.gif)
 
